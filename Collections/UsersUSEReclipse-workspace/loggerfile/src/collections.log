@@ -1,0 +1,22 @@
+2020-03-03 09:20:02 INFO  CreateList :10 - List before creation
+2020-03-03 09:20:02 INFO  CreateList :11 - 1 2 3 4 5 6 7 8 9 10
+2020-03-03 09:20:02 INFO  CreateList :12 - Enter number of elements
+2020-03-03 09:20:06 INFO  CreateList :14 - Enter Elements:
+2020-03-03 09:20:09 INFO  CreateList :21 - New list after adding elements:
+2020-03-03 09:20:09 INFO  CreateList :22 - 1 2 3 4 5 6 7 8 9 10 19 20
+2020-03-03 09:20:09 INFO  CreateList :23 - Enter element index to be removed
+2020-03-03 09:20:11 INFO  CreateList :27 - Modified list after removing elements:1 2 3 4 5 6 7 9 10 19 20
+2020-03-03 09:20:11 INFO  CreateList :28 - Element at index 2 is 3
+2020-03-03 09:20:11 INFO  CreateList :30 - value at last index is: 20
+2020-03-03 09:20:11 INFO  CreateList :31 - Total size of the list 11
+2020-03-04 18:15:26 INFO  CreateList :10 - List before creation
+2020-03-04 18:15:26 INFO  CreateList :11 - 1 2 3 4 5 6 7 8 9 10
+2020-03-04 18:15:26 INFO  CreateList :12 - Enter number of elements
+2020-03-04 18:15:30 INFO  CreateList :14 - Enter Elements:
+2020-03-04 18:15:32 INFO  CreateList :21 - New list after adding elements:
+2020-03-04 18:15:32 INFO  CreateList :22 - 1 2 3 4 5 6 7 8 9 10 25
+2020-03-04 18:15:32 INFO  CreateList :23 - Enter element index to be removed
+2020-03-04 18:15:34 INFO  CreateList :27 - Modified list after removing elements:1 2 3 4 5 6 7 9 10 25
+2020-03-04 18:15:34 INFO  CreateList :28 - Element at index 2 is 3
+2020-03-04 18:15:34 INFO  CreateList :30 - value at last index is: 25
+2020-03-04 18:15:34 INFO  CreateList :31 - Total size of the list 10
